@@ -1,7 +1,5 @@
 package ikar.sort;
 
-import ikar.sort.RandomArrays;
-
 /*
 Сортировка выбором. На n-ой итерации находим минимальный элемент и меняем его с n-ым
  */

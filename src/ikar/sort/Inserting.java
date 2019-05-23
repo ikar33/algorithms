@@ -1,6 +1,6 @@
 package ikar.sort;
 
-public class Inserting extends algoritms.sort.RandomArrays {
+public class Inserting extends RandomArrays {
 
 
     @Override
