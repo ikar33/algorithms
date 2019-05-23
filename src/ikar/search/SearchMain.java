@@ -1,6 +1,4 @@
-package algoritms.search;
-
-
+package ikar.search;
 
 import java.util.Arrays;
 

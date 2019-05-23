@@ -1,4 +1,4 @@
-package algoritms.sort;
+package ikar.sort;
 
 import java.util.Arrays;
 

@@ -1,8 +1,10 @@
-package algoritms.search;
+package ikar.search;
 
-import algoritms.sort.RandomArrays;
+
+
 
 import java.util.Arrays;
+
 
 public class Binary {
     public int searchElement(int[] src_array, int search) {
