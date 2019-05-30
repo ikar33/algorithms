@@ -3,7 +3,7 @@ package ikar.sort;
 /*
 Сортировка пузырьком - Т итераций,на каждой сравниваются 2 ближайших элемента и меньший ставится раньше
  */
-public class Bubble extends algoritms.sort.RandomArrays {
+public class Bubble extends RandomArrays {
 
     public Bubble() {
         System.out.println("Bubble sort alhoritm:");

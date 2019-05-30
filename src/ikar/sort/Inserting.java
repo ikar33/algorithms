@@ -22,7 +22,7 @@ public class Inserting extends RandomArrays {
                         }
                     }
                 } else {
-                    if(j == 0){ //first
+                    if(j == 0){ //if needle element is first
                         int temp = this.src_int_array[j];
                         this.src_int_array[j] = this.src_int_array[i];
 
@@ -31,7 +31,7 @@ public class Inserting extends RandomArrays {
                             this.src_int_array[k] = temp;
                             temp = temp_;
                         }
-                    }else if (i == j + 1) { //last
+                    }else if (i == j + 1) { //if needle element is last
                         int temp = this.src_int_array[j];
                         this.src_int_array[j] = this.src_int_array[i];
                         this.src_int_array[i] = temp;
